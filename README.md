@@ -23,6 +23,7 @@ This is a list of examples and scripts compiled by the Snyk Customer Experience 
 - [How to Save Ignored vulns as .snyk file](scripts/ignores-to-policy-file.md)
 - [How to Scan All Projects by File Type](scripts/scan-proj-from-type.md)
 - [How to Scan all unmanaged JARs](scripts/scan-all-unmanaged-jars.md)
+- [How to Scan Python wheel (.whl) Files with Snyk] (scripts/scan-python-whl-files.md)
 - [How to Send new ignores to Slack](scripts/new-ignores-slack.md)
 - [How to Silence snyk exit code and create advanced conditions to fail the build](scripts/silence-exit-code.md)
 - [How to Understand if vulnerability was added by developer or is a new vulnerability discovered](scripts/vul-added-or-discovered.md)
